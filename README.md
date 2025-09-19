@@ -1,3 +1,1 @@
-# hello-world
-This repository is for practicing the GitHub Flow
-My name is Felix Frederick. I am 24 years old and I'm working at Elizabeth Consulting International Inc.
+# cat ~/.ssh/ Felix_ssh_key.pub
